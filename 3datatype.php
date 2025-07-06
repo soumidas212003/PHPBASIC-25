@@ -7,6 +7,7 @@
     //$x=true;
     //$x=false;
     $x=null;
+    
     echo $x . "<br>";   
     var_dump($x);//show variable value & variable datatype
     echo("<br>");
